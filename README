@@ -1,0 +1,5 @@
+An in-progress repository for various tools and statistical analysis for use with Mihoyo's Genshin Impact. Code and
+subsequent analysis is in a very 'work-in-progress' state and should not be relied on.
+
+Currently, main.py is used for active development for some analysis on wish rates. It will be cleaned up and moved to
+the jupyter notebook eventually.
